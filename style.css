@@ -1,0 +1,52 @@
+* {
+    padding: 15px;
+}
+.container {
+    background-color: rgb(221, 226, 226);
+}
+
+.header {
+    text-align: center;
+} 
+
+.img {
+    background-color: white;
+    display: flex;
+    
+}
+
+.img p {
+    padding-top: 100px;
+}
+.img img {
+    width: 800px;
+    padding: 100px;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h3 {
+    font-size:  30px;
+}
+h4 {
+    font-size: 27px;
+}
+
+
+
+.years p {
+    max-width: 600px;
+}
+
+
+.quote {
+    text-align: center;
+    font-style: italic;
+}
